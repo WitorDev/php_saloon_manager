@@ -2,7 +2,10 @@
 
 <br><br>
 Made with `PHP, SQL, HTML, CSS and Javascript`
-<br><br>
+<br>
+<br>
+#### *Try it out [here](https://saloonmanager.page.gd/appointments.php)*
+<br>
 
 An appointment manager that lets you create appointments for your clients. All made with PHP, using Sessions for user Registering and Log-in.
 With input validation to provide security against cross-site scripting and SQL Injection and has database connection.
